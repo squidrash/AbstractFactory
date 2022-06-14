@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="HeroesFactory\" />
+    <None Remove="Weapons\" />
+    <None Remove="Ability\" />
+    <None Remove="Ultimate\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="HeroesFactory\" />
+    <Folder Include="Weapons\" />
+    <Folder Include="Ability\" />
+    <Folder Include="Ultimate\" />
+  </ItemGroup>
+</Project>

@@ -21,6 +21,7 @@ namespace HeroAbstractFactory
             Console.WriteLine(ability.UseAbility());
             Console.WriteLine(ult.UseUltimate());
 
+
             Console.Read();
         }
     }

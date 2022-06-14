@@ -1,0 +1,4 @@
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/bin/Release/net5.0/publish/HeroAbstractFactory.dll
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/bin/Release/net5.0/publish/HeroAbstractFactory.deps.json
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/bin/Release/net5.0/publish/HeroAbstractFactory.runtimeconfig.json
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/bin/Release/net5.0/publish/HeroAbstractFactory.pdb

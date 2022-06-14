@@ -1,0 +1,28 @@
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/Абстрактная фабрика/HeroAbstractFactory/HeroAbstractFactory/bin/Debug/net5.0/HeroAbstractFactory.deps.json
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/Абстрактная фабрика/HeroAbstractFactory/HeroAbstractFactory/bin/Debug/net5.0/HeroAbstractFactory.runtimeconfig.json
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/Абстрактная фабрика/HeroAbstractFactory/HeroAbstractFactory/bin/Debug/net5.0/HeroAbstractFactory.runtimeconfig.dev.json
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/Абстрактная фабрика/HeroAbstractFactory/HeroAbstractFactory/bin/Debug/net5.0/HeroAbstractFactory.dll
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/Абстрактная фабрика/HeroAbstractFactory/HeroAbstractFactory/bin/Debug/net5.0/ref/HeroAbstractFactory.dll
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/Абстрактная фабрика/HeroAbstractFactory/HeroAbstractFactory/bin/Debug/net5.0/HeroAbstractFactory.pdb
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/Абстрактная фабрика/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/HeroAbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/Абстрактная фабрика/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/HeroAbstractFactory.AssemblyInfoInputs.cache
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/Абстрактная фабрика/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/HeroAbstractFactory.AssemblyInfo.cs
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/Абстрактная фабрика/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/HeroAbstractFactory.csproj.CoreCompileInputs.cache
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/Абстрактная фабрика/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/HeroAbstractFactory.dll
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/Абстрактная фабрика/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/ref/HeroAbstractFactory.dll
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/Абстрактная фабрика/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/HeroAbstractFactory.pdb
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/Абстрактная фабрика/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/HeroAbstractFactory.genruntimeconfig.cache
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/bin/Debug/net5.0/HeroAbstractFactory.deps.json
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/bin/Debug/net5.0/HeroAbstractFactory.runtimeconfig.json
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/bin/Debug/net5.0/HeroAbstractFactory.runtimeconfig.dev.json
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/bin/Debug/net5.0/HeroAbstractFactory.dll
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/bin/Debug/net5.0/ref/HeroAbstractFactory.dll
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/bin/Debug/net5.0/HeroAbstractFactory.pdb
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/HeroAbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/HeroAbstractFactory.AssemblyInfoInputs.cache
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/HeroAbstractFactory.AssemblyInfo.cs
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/HeroAbstractFactory.csproj.CoreCompileInputs.cache
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/HeroAbstractFactory.dll
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/ref/HeroAbstractFactory.dll
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/HeroAbstractFactory.pdb
+/Users/nikitarasevskij/Desktop/Infoсom/Стандартный/Patterns/HeroAbstractFactory/HeroAbstractFactory/obj/Debug/net5.0/HeroAbstractFactory.genruntimeconfig.cache
